@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LSAO)(type Legacy)(uri /home/kliment/designs/Tilda-MKV/parts/sao/LSAO.lib)(options "")(descr ""))
+  (lib (name badgelife_shitty_addon_v169bis)(type Legacy)(uri /home/kliment/designs/Tilda-MKV/parts/sao/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
+)
