@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cloud)(type KiCad)(uri ${KIPRJMOD}/cloud.pretty)(options "")(descr ""))
+)
